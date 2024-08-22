@@ -9,8 +9,15 @@ a) The Journey Bagins
   3) checkPalindrome
 
 b) Edge of the Ocean
-  1) adjacentElementsProduct
-  2) shapeArea
-  3) Make Array Consecutive 2
-  4) almostIncreasingSequence
-  5) matrixElementsSum
+  4) adjacentElementsProduct
+  5) shapeArea
+  6) Make Array Consecutive 2
+  7) almostIncreasingSequence
+  8) matrixElementsSum
+
+c) Smooth Sailing
+  9) All Longest Strings
+  10) commonCharacterCount
+  11) isLucky
+  12) Sort by Height
+  13) reverseInParentheses
