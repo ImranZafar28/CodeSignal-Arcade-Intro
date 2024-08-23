@@ -21,3 +21,10 @@ c) Smooth Sailing
   3) isLucky
   4) Sort by Height
   5) reverseInParentheses
+
+d) Exploring the Waters
+  1) alternatingSums
+  2) Add Border
+  3) Are Similar?
+  4) arrayChange
+  5) palindromeRearranging
