@@ -28,3 +28,10 @@ d) Exploring the Waters
   3) Are Similar?
   4) arrayChange
   5) palindromeRearranging
+e) Island of Knowledge
+  1) areEquallyStrong
+  2) arrayMaximalAdjacentDifference
+  3) isIPv4Address
+  4) avoidObstacles
+  5) Box Blur
+  6) Minesweeper
