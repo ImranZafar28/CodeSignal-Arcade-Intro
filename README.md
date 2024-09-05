@@ -43,3 +43,9 @@ f) Rains of Reasons
   3) variableName
   4) alphabeticShift
   5) chessBoardCellColor
+
+g) Through the Fog
+  1) Circle of Numbers
+  2) depositProfit
+  3) absoluteValuesSumMinimization
+  4) stringsRearrangement
