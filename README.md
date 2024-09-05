@@ -36,3 +36,10 @@ e) Island of Knowledge
   4) avoidObstacles
   5) Box Blur
   6) Minesweeper
+
+f) Rains of Reasons
+  1) Array Replace
+  2) evenDigitsOnly
+  3) variableName
+  4) alphabeticShift
+  5) chessBoardCellColor
