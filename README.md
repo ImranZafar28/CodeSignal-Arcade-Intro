@@ -55,3 +55,10 @@ h) Diving Deeper
   2) firstDigit
   3) differentSymbolsNaive
   4) arrayMaxConsecutiveSum
+
+i) Dark Wilderness
+  1) growingPlant
+  2) Knapsack Light
+  3) longestDigitsPrefix
+  4) digitDegree
+  5) Bishop and Pawn
