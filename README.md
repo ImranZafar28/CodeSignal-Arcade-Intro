@@ -49,3 +49,9 @@ g) Through the Fog
   2) depositProfit
   3) absoluteValuesSumMinimization
   4) stringsRearrangement
+
+h) Diving Deeper
+  1) extractEachKth
+  2) firstDigit
+  3) differentSymbolsNaive
+  4) arrayMaxConsecutiveSum
