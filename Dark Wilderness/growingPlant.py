@@ -1,4 +1,4 @@
-#growingPlant
+# growingPlant
 '''
 Caring for a plant can be hard work, but since you tend to it regularly, you have a plant that grows consistently. 
 Each day, its height increases by a fixed amount represented by the integer upSpeed. But due to lack of sunlight, 
@@ -8,7 +8,7 @@ Since you grew the plant from a seed, it started at height 0 initially. Given an
 your task is to find how many days it'll take for the plant to reach this height.
 '''
 
-#Example
+# Example
 '''
 For upSpeed = 100, downSpeed = 10, and desiredHeight = 910, the output should be
 solution(upSpeed, downSpeed, desiredHeight) = 10.
@@ -28,6 +28,7 @@ solution(upSpeed, downSpeed, desiredHeight) = 10.
 The plant first reaches a height of 910 on day 10.
 '''
 
+# Solution:
 def solution(upSpeed, downSpeed, desiredHeight):
     initialHeight = 0
     days = 0
