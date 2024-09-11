@@ -62,3 +62,10 @@ i) Dark Wilderness
   3) longestDigitsPrefix
   4) digitDegree
   5) Bishop and Pawn
+
+j) Eruption of Light
+  1) isBeautifulString
+  2) Find Email Domain
+  3) buildPalindrome
+  4) Elections Winners
+  5) Is MAC48 Address?
