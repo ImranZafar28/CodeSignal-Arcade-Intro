@@ -69,3 +69,9 @@ j) Eruption of Light
   3) buildPalindrome
   4) Elections Winners
   5) Is MAC48 Address?
+
+k) Rainbow of Clarity
+  1) isDigit
+  2) lineEncoding
+  3) chessKnight
+  4) deleteDigit
