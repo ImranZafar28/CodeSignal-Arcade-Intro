@@ -75,3 +75,14 @@ k) Rainbow of Clarity
   2) lineEncoding
   3) chessKnight
   4) deleteDigit
+
+l) Land of Logic
+  1) longestWord
+  2) Valid Time
+  3) sumUpNumbers
+  4) Different Squares
+  5) digitsProduct
+  6) File Naming
+  7) messageFromBinaryCode
+  8) spiralNumbers
+  9) Sudoku
